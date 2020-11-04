@@ -9,3 +9,5 @@ Functions can have return values.
 Functions can have other functions as parameters.
 Other files can be run as functions.
 Written in Java.
+
+*The .sl files in this folder are script examples.*
