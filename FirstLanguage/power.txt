@@ -1,0 +1,26 @@
+2
+goto main
+
+power
+set 0
+@
+? 1
+-
+q
+t 1
+*
+q
++
+?
+return
+
+main
+print First number is:
+int.i
+>
+print Second number is:
+int.i
+<
+call power
+int.p
+ln

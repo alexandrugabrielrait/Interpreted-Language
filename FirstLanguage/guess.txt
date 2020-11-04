@@ -1,0 +1,26 @@
+2
+>
+int.c 10
+int.r
+x
+<
+start
+print Enter a number:
+int.i
+if >
+>
+>
+println Too great!
+<
+<
+goto start
+else
+if <
+>
+>
+println Too small!
+<
+<
+goto start
+else
+println Good job!

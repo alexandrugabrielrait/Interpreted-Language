@@ -1,0 +1,20 @@
+2
+goto main
+printer
+int.p
+ln
+return
+
+main
+>
+int.i
+<
+int.i
++
+>
+for
+if <
+call printer
++
+goto for
+else

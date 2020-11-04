@@ -1,0 +1,23 @@
+3
+goto main
+main
+int.i
+x
+>
+int.i
+>
+set 1
+&
+print And:
+int.p
+ln
+set 1
+|
+print Or:
+int.p
+ln
+set 1
+^
+print Xor:
+int.p
+ln

@@ -1,0 +1,19 @@
+10
+goto main
+
+for
+>
+if ?
+int.c 0
+return
+else
+q
++
+q
+set 0
+goto for
+
+main
+call for
+end
+debug

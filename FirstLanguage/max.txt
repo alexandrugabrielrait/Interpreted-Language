@@ -1,0 +1,17 @@
+2
+print First number is:
+int.i
+>
+print Second number is:
+int.i
+if < 0
+<
+else
+end
+print Max is:
+int.p
+ln
+<
+print Min is:
+int.p
+ln
